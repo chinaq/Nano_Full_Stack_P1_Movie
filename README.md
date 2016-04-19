@@ -2,3 +2,6 @@
 
 run it by  
 `python entertainment_center.py`
+
+shows  
+![screen shot](movies.png)
